@@ -1,1 +1,1 @@
-This is the my first meeting with GIT
+This is my first meeting with GIT
