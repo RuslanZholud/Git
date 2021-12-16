@@ -1,2 +1,3 @@
 git is awesome!
-new line
+
+me is awesome too :)
